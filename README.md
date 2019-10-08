@@ -32,7 +32,7 @@ We don't want you to spend too much time on this -- **we expect you to be able t
 - Reference the [`KioskMenu`](./KioskMenu.jpg) Image for a general idea on the UI we expect. The design is up to you, but the UI on the PDF is _roughly_ the layout we're looking for.
 - The UI should look presentable, but we don't expect you to be a designer. Prefer a well-working application over design.
 - Use any external packages you think would be helpful.
-- Tests are not required.
+- Tests are not required, but allowed.
 
 ## Requirements
 
