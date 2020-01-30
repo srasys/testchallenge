@@ -192,6 +192,7 @@ const App: () => React$Node = () => {
               subMenuData.filter(i => i.id === subMenuSelected)[0].items,
             )}
         </View>
+        <View style={{height: 100}}></View>
       </ScrollView>
     </SafeAreaView>
   );
@@ -200,8 +201,6 @@ const App: () => React$Node = () => {
 const styles = StyleSheet.create({
   containerStyles: {
     backgroundColor: '#fafafa',
-    width: '100%',
-    height: '100%',
   },
   mainMenuContainer: {
     height: 50,
