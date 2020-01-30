@@ -130,15 +130,11 @@ const App: () => React$Node = () => {
                     numberOfLines={3}
                     ellipsizeMode={'tail'}>
                     {item.name}
-                    {item.name}
-                    {item.name}
                   </Text>
                   <Text
                     style={styles.descriptionStyle}
                     numberOfLines={2}
                     ellipsizeMode={'tail'}>
-                    {item.description}
-                    {item.description}
                     {item.description}
                   </Text>
                 </View>
